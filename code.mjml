@@ -1,0 +1,93 @@
+<mjml>
+		<mj-head>
+  		<mj-font href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" />
+  	</mj-head>
+  
+  	<mj-body>
+  			<mj-section>
+      			<mj-column background-color="#006DF0">
+          			<mj-image 
+                    width="100%"
+                    src="https://www.dropbox.com/s/y61ztfbvbquqqdc/coinbase-logo.png?raw=1"/>
+          	</mj-column>
+      	</mj-section>
+      
+      	<mj-section>
+      			<mj-column>
+              	<mj-image 
+                       width="100%"                       src="https://www.dropbox.com/s/tuhoggr7m8xw7dr/checkmark.png?raw=1"/>
+              <mj-text font-size="22px"
+                       line-height="32px"
+                       font-weight="700"
+                       align="center">
+                You traded ₵5.89 of Bitcoin for USD Coin
+              </mj-text>
+              <mj-text font-size="14px"
+                       line-height="20px"
+                       font-weight="400"
+                       align="center">
+              	Your USDC is now available to trade.
+              </mj-text>
+          	</mj-column>
+      	</mj-section>
+      
+      <mj-section>
+      		<mj-column>
+        		<mj-table align="center">
+            	<table>
+              	<tbody style="font-family:Lato">
+                	<tr>
+                  	<td style="padding: 10px 60px">Reference code</td>
+                    <td style="padding: 10px 60px;color:#2e7bc4;"><span style="background-color:#f4f7fa;padding:5px 8px;border:1px solid #dae1e9;letter-spacing:2px;padding:5px 8px;border-radius:4px;">DTKF476I</span></td>
+                  </tr>
+                  
+                  <tr>
+                  	<td style="padding: 10px 60px">Payment method	</td>
+                    <td style="padding: 10px 60px">BTC Wallet</td>
+                  </tr>
+                  
+                  <tr>
+                  	<td style="padding: 10px 60px">Date	</td>
+                    <td style="padding: 10px 60px">September 03, 2020</td>
+                  </tr>
+                  
+                   <tr>
+                  	<td style="padding: 10px 60px">Amount	</td>
+                    <td style="padding: 10px 60px">0.00009721 BTC</td>
+                  </tr>
+                  
+                  <tr>
+                  	<td style="padding: 10px 60px">Exchange rate		</td>
+                    <td style="padding: 10px 55px">@ 10,461.197408 USDC / BTC</td>
+                  </tr>
+                  
+                  <tr>
+                  	<td style="padding: 10px 60px">Subtotal	</td>
+                    <td style="padding: 10px 60px">1.016933 USDC
+</td>
+                  </tr>
+                  
+                  <tr>
+                  	<td style="padding: 10px 60px">Total	</td>
+                    <td style="padding: 10px 60px">1.016933 USDC</td>
+                  </tr>
+                  
+                  
+                </tbody>
+              </table>
+            </mj-table>
+            
+            <mj-button width="76%"
+                       background-color="#006DF0"
+                       inner-padding="20px 0px"
+                       font-family="Lato"
+                       font-size="16px"
+                       >
+              View Trade
+            </mj-button>
+        	</mj-column>
+      </mj-section>
+      
+      
+  	</mj-body>
+</mjml>
